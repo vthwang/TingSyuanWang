@@ -22,5 +22,5 @@
 ### Github Analytics
 ![Vincet's GitHub stats](https://github-readme-stats.vercel.app/api?username=TingSyuanWang&show_icons=true&count_private=true)<br>
 
-### Top Languages
+### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TingSyuanWang&layout=compact&langs_count=10)](https://github.com/TingSyuanWang/github-readme-stats)
