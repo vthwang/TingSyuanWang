@@ -21,4 +21,4 @@
 <a href="https://www.linkedin.com/in/twang443/"><img align="left" src="https://img.icons8.com/ios/344/linkedin.png" alt="icon | LinkedIn" width="30px"/></a>
 <a href="https://www.facebook.com/twang443/"><img align="left" src="https://img.icons8.com/ios/344/facebook--v1.png" alt="icon | Facebook" width="30px"/></a>
 <a href="https://www.instagram.com/twang443/"><img align="left" src="https://img.icons8.com/ios/344/instagram-new--v1.png" alt="icon | Instagram" width="30px"/></a>
-<a href="https://twitter.com/twang443"><img align="left" src="https://img.icons8.com/ios/344/twitter--v1.png" alt="icon | Twitter" width="30px"/></a>
+<a href="https://twitter.com/twang443"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361040-8733e89d-61cd-40c5-b5f1-b02c75896e99.gif" alt="icon | Twitter" width="30px"/></a>
