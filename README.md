@@ -5,7 +5,7 @@
 </h1>
 
 ### Hi there 👋
-- 🔭 I’m currently working as the Software Engineer in [IC3.network](https://ic3.network/).
+- 🔭 I’m currently working as the Software Engineer in [ic3.network](https://ic3.network/).
 - 🌱 I’m currently learning design pattern and solving problem on [leetcode](https://leetcode.com/TingSyuanWang/).
 - 📫 How to reach me: <a href="mailto:vincent@fishboneapps.com">Chat with me Here</a> / <a href="mailto:vincent@fishboneapps.com">Working Email</a>
 - 😄 Interested in Blockchain, Web development.
