@@ -19,8 +19,6 @@
 <a href="https://www.instagram.com/twang443/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="40px" height="40px"/></a>
 <a href="https://twitter.com/twang443"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361040-8733e89d-61cd-40c5-b5f1-b02c75896e99.gif" alt="icon | Twitter" width="40px" height="40px"/></a>
 <a href="https://vincent.fishboneapps.com/"><img align="left" src="https://user-images.githubusercontent.com/8935531/169591321-246d43fc-c4d4-4d79-b10a-bc9c34f4c985.gif" alt="icon | Hexo" width="40px" height="40px"/></a><br>
-$ $
-<!-- Special Characters for img spacing. -->
 
 <img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=TingSyuanWang&style=flat-square&&label=Profile+Views&color=50A1FF">
 
