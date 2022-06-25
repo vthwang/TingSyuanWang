@@ -13,12 +13,12 @@
 
 ### Connect with me
 
-<a href="https://github.com/TingSyuanWang/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361217-c7dd130c-0eae-46b0-9652-42787925d8a0.gif" alt="icon | Github" width="40px" height="40px"/></a>
-<a href="https://www.linkedin.com/in/twang443/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361105-247123fe-99da-4822-bd22-c659def68552.gif" alt="icon | LinkedIn" width="40px" height="40px"/></a>
-<a href="https://www.facebook.com/twang443/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361100-1fe2b952-4a79-48ec-8646-58f1f4f9738c.gif" alt="icon | Facebook" width="40px" height="40px"/></a>
-<a href="https://www.instagram.com/twang443/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="40px" height="40px"/></a>
-<a href="https://twitter.com/twang443"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361040-8733e89d-61cd-40c5-b5f1-b02c75896e99.gif" alt="icon | Twitter" width="40px" height="40px"/></a>
-<a href="https://vincent.fishboneapps.com/"><img align="left" src="https://user-images.githubusercontent.com/8935531/169591321-246d43fc-c4d4-4d79-b10a-bc9c34f4c985.gif" alt="icon | Hexo" width="40px" height="40px"/></a><br>
+<a href="https://github.com/TingSyuanWang/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361217-c7dd130c-0eae-46b0-9652-42787925d8a0.gif" alt="icon | Github" width="4%" /></a>  
+<a href="https://www.linkedin.com/in/twang443/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361105-247123fe-99da-4822-bd22-c659def68552.gif" alt="icon | LinkedIn" width="4%" /></a>  
+<a href="https://www.facebook.com/twang443/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361100-1fe2b952-4a79-48ec-8646-58f1f4f9738c.gif" alt="icon | Facebook" width="4%"/></a>  
+<a href="https://www.instagram.com/twang443/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="4%"/></a>  
+<a href="https://twitter.com/twang443"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361040-8733e89d-61cd-40c5-b5f1-b02c75896e99.gif" alt="icon | Twitter" width="4%"/></a>  
+<a href="https://vincent.fishboneapps.com/"><img align="left" src="https://user-images.githubusercontent.com/8935531/169591321-246d43fc-c4d4-4d79-b10a-bc9c34f4c985.gif" alt="icon | Hexo" width="4%"/></a><br>
 
 <img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=TingSyuanWang&style=flat-square&&label=Profile+Views&color=50A1FF">
 
