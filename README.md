@@ -31,7 +31,7 @@
 ---
 
 ### Github Analytics
-[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=TingSyuanWang&show_icons=true&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=TingSyuanWang&show_icons=true&count_private=true&include_all_commits=true)<br>
+[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=TingSyuanWang&show_icons=true&count_private=false&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=TingSyuanWang&show_icons=true&count_private=false&include_all_commits=true)<br>
 
 ### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TingSyuanWang&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=TingSyuanWang&layout=compact&langs_count=10)
