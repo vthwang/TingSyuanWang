@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/TingSyuanWang/">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=3000&pause=500&center=true&width=435&lines=Hello%2C+Visitor!+%F0%9F%91%8B;I'm+Vincent+T.H.+Wang;Welcome+to+my+GitHub+%F0%9F%A5%82">
+    <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&size=24&duration=3000&pause=500&center=true&width=435&lines=Hello%2C+Visitor!+%F0%9F%91%8B;I'm+Vincent+T.H.+Wang;Welcome+to+my+GitHub+%F0%9F%A5%82">
   </a>
 </h1>
 
