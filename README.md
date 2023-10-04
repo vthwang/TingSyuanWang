@@ -20,7 +20,7 @@
       <td><a href="https://www.linkedin.com/in/vthwang/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361105-247123fe-99da-4822-bd22-c659def68552.gif" alt="icon | LinkedIn" width="100%" /></a></td>
       <td><a href="https://www.facebook.com/vthwang/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361100-1fe2b952-4a79-48ec-8646-58f1f4f9738c.gif" alt="icon | Facebook" width="100%"/></a></td>
       <td><a href="https://www.instagram.com/vthwang/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="100%"/></a></td>
-      <td><a href="https://twitter.com/twang443"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361040-8733e89d-61cd-40c5-b5f1-b02c75896e99.gif" alt="icon | X" width="100%"/></a></td>
+      <td><a href="https://twitter.com/vth_wang"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361040-8733e89d-61cd-40c5-b5f1-b02c75896e99.gif" alt="icon | X" width="100%"/></a></td>
       <td><a href="https://vw.line-world.com/"><img align="left" src="https://user-images.githubusercontent.com/8935531/169591321-246d43fc-c4d4-4d79-b10a-bc9c34f4c985.gif" alt="icon | WordPress" width="100%"/></a></td>
     </tr>
   </tbody>
