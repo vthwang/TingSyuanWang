@@ -32,10 +32,14 @@
 
 ### Github Analytics
 <a href="https://github.com/TingSyuanWang">
-  <img src="https://github-readme-stats.vercel.app/api?username=TingSyuanWang&count_private=true&show_icons=true&include_all_commits=true" />
+  <img src="https://github-stats.vthwang.com/?username=TingSyuanWang&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
+
+
 
 ### Most Used Languages
 <a href="https://github.com/TingSyuanWang">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TingSyuanWang&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
+  <img src="https://github-stats.vthwang.com/top-langs/?username=TingSyuanWang&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS,Blade,jupyter%20notebook&langs_count=10" />
 </a>
+
+
