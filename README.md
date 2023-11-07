@@ -32,5 +32,7 @@
 
 ### Github Analytics
 
-| <a href="https://github.com/TingSyuanWang"><img align="center" src="https://github-stats.vthwang.com/?username=TingSyuanWang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="Vincent's github stats" /></a> | <a href="https://github.com/TingSyuanWang"><img align="center" src="https://github-stats.vthwang.com/top-langs/?username=TingSyuanWang&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS,Blade,jupyter%20notebook&langs_count=10&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/TingSyuanWang"><img align="center" src="https://github-stats.vthwang.com/?username=TingSyuanWang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="Vincent's github stats" /></a> | <a href="https://github.com/TingSyuanWang"><img align="center" src="https://github-stats.vthwang.com/top-langs/?username=TingSyuanWang&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS,Blade,jupyter%20notebook&langs_count=10&hide_border=true" /></a> | 
+| ------------- | ------------- | ------------- |
+
+[![Vincent's WakaTime stats](https://github-stats.vthwang.com/wakatime?username=vthwang&v=2&layout=compact&langs_count=10)](https://github.com/TingSyuanWang)
